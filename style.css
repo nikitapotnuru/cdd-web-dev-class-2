@@ -1,0 +1,23 @@
+.sec-1{
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(216, 120, 213);
+}
+.sec-2{
+    border: 5px solid red;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(54, 184, 54);
+    color: aliceblue;
+}
+.sec-3{
+    border: 5px solid blue;
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(230, 123, 70);
+    color: darkred;
+}
+html{
+    background-color: rgb(122, 206, 206);
+}
